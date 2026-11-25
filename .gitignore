@@ -1,3 +1,7 @@
 # .gitignore
 .env
 scripts/.env
+# Local credentials
+.env
+.env.*
+!.env.example
